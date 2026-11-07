@@ -1,4 +1,4 @@
-<img width="769" height="1446" alt="observerPatternERD" src="https://github.com/user-attachments/assets/8004fc6d-285f-4042-a3fd-202cc1080d42" />
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
