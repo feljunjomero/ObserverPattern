@@ -1,3 +1,4 @@
+<img width="769" height="1446" alt="observerPatternERD" src="https://github.com/user-attachments/assets/8004fc6d-285f-4042-a3fd-202cc1080d42" />
 ## Folder Structure
 
 The workspace contains two folders by default, where:
@@ -43,3 +44,6 @@ Constraints:
     Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 ## UML DIAGRAM
+
+<img width="769" height="1446" alt="observerPatternERD" src="https://github.com/user-attachments/assets/6b43feb7-8f34-4377-acb2-8b771cb67bab" />
+
